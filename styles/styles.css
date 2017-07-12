@@ -27,8 +27,13 @@
       float: left;
     }
 
+   
     .whtText {
       color: white;
+    }
+
+    .imgSpread {
+      padding: 10px;
     }
 
     h1 {
